@@ -1,0 +1,4 @@
+SKB Collections
+---------------
+
+Classes for Java Collection API (Collections and Maps).
