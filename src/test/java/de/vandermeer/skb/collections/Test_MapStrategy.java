@@ -32,7 +32,7 @@ import de.vandermeer.skb.collections.MapStrategy;
  * @author     Sven van der Meer &lt;vdmeer.sven@mykolab.com&gt;
  * @version    v0.0.4-SNAPSHOT build 150618 (18-Jun-15) for Java 1.8
  */
-public class MapStrategy_Tests {
+public class Test_MapStrategy {
 
 	@Test public void test(){
 		this.testOp(MapStrategy.HASH_MAP);

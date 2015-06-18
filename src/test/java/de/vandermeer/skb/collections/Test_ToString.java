@@ -28,7 +28,7 @@ import org.junit.Test;
  * @author     Sven van der Meer &lt;vdmeer.sven@mykolab.com&gt;
  * @version    v0.0.4-SNAPSHOT build 150618 (18-Jun-15) for Java 1.8
  */
-public class ToString_Tests {
+public class Test_ToString {
 
 	@Test public void testList(){
 		List<String> l=new ArrayList<String>();
